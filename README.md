@@ -145,3 +145,17 @@ All private IP addresses, domain names, SSL certificates, API tokens, admin IDs,
 ## 🔗 Related Repositories
 
 - 🌐 **Locis-R** (iOS Custom Routing Rules) — Custom domain and IP ruleset for optimal iOS/macOS traffic routing.
+
+## 📷 Applications
+
+VPN in Happ:
+
+<img width="872" height="451" alt="Screenshot 2026-09-17 235223" src="https://github.com/user-attachments/assets/9034411b-cbb3-4642-a4b5-b4bea88b13a7" />
+
+Telegram-bot:
+
+<img width="544" height="436" alt="Screenshot 2026-09-17 235100" src="https://github.com/user-attachments/assets/5e8d693a-e6f5-4d58-b18a-f0e2cf6a9ede" />
+<img width="658" height="839" alt="Screenshot 2026-09-17 234735" src="https://github.com/user-attachments/assets/edefbe76-20f0-4fa4-8c5c-f25813099bd9" />
+<img width="657" height="622" alt="Screenshot 2026-09-17 234813" src="https://github.com/user-attachments/assets/8f82da20-519b-4deb-b5d4-a85f1f74ef10" />
+
+
