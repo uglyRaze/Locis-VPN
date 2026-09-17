@@ -1,8 +1,8 @@
 # ⚡ Locis VPN — Production-Grade Commercial VPN Platform
 
-> **Project Status:** Archived (Sunsetting).
-> **Active Period:** 2025 – 2026 (~6+ months of operation).
-> **Scale & Reach:** ~500 Monthly Active Users (MAU).
+> **Project Status:** Archived (Sunsetting).  
+> **Active Period:** 2025 – 2026 (~6+ months of operation).  
+> **Scale & Reach:** ~500 Monthly Active Users (MAU).  
 > **Role:** Solo Developer / Full-Stack Engineer (Architecture, Backend, Infrastructure, iOS Routing, Telegram Bot & Monetization).
 
 ---
@@ -11,7 +11,9 @@
 
 **Locis VPN** was a full-cycle, production-ready commercial VPN ecosystem built for privacy, performance, and cross-platform flexibility. The project provided automated subscription management, payment gateway integration, dynamic client configuration headers, hardware/fingerprint device enforcement, and custom routing for geo-blocked services (AI tools, restricted domain bypass).
 
-The platform successfully operated for over half a year before being officially archived due to shifting regulatory conditions and strategic focus toward new engineering projects.
+The platform successfully operated for over half a year before being officially archived. The public-facing reason for the closure may not fully reflect the underlying circumstances: the primary reason for shutting down the project was **the need to protect the safety and privacy of my family in the context of the legal and regulatory environment in the Russian Federation**.
+
+At the time the project was opened/launched, I was **16 years old**. At the time it was closed/archived, I was **17 years old**. This context is relevant to understanding the circumstances under which the project was developed, operated, and ultimately discontinued.
 
 ---
 
@@ -83,7 +85,7 @@ Native integration with custom iOS/macOS routing rule sets, ensuring that local 
 
 ## 📁 Repository Structure
 
-```
+```text
 .
 ├── bot.py                # Telegram Bot logic & Robokassa payment processing engine
 ├── server.js             # Node.js API middleware (Device management, X-UI sync, Sub handler)
@@ -157,5 +159,3 @@ Telegram-bot:
 <img width="544" height="436" alt="Screenshot 2026-09-17 235100" src="https://github.com/user-attachments/assets/5e8d693a-e6f5-4d58-b18a-f0e2cf6a9ede" />
 <img width="658" height="839" alt="Screenshot 2026-09-17 234735" src="https://github.com/user-attachments/assets/edefbe76-20f0-4fa4-8c5c-f25813099bd9" />
 <img width="657" height="622" alt="Screenshot 2026-09-17 234813" src="https://github.com/user-attachments/assets/8f82da20-519b-4deb-b5d4-a85f1f74ef10" />
-
-
