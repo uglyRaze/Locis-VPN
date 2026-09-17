@@ -1,4 +1,4 @@
-# ⚡ Locis VPN — Production-Grade Commercial VPN Platform
+# ⚡ Locis VPN - Production-Grade Commercial VPN Platform
 
 > **Project Status:** Archived (Sunsetting).  
 > **Active Period:** 2025 – 2026 (~6+ months of operation).  
