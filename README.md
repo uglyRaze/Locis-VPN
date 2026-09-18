@@ -164,4 +164,5 @@ Statistic on 9/18/26:
 
 <img width="1899" height="968" alt="image" src="https://github.com/user-attachments/assets/c9873031-f8c3-474e-a9b0-88ba7fd0d398" />
 
+(green - active, blue - all users, yellow - paid users, purple - new users of 24h)
 
