@@ -159,3 +159,9 @@ Telegram-bot:
 <img width="544" height="436" alt="Screenshot 2026-09-17 235100" src="https://github.com/user-attachments/assets/5e8d693a-e6f5-4d58-b18a-f0e2cf6a9ede" />
 <img width="658" height="839" alt="Screenshot 2026-09-17 234735" src="https://github.com/user-attachments/assets/edefbe76-20f0-4fa4-8c5c-f25813099bd9" />
 <img width="657" height="622" alt="Screenshot 2026-09-17 234813" src="https://github.com/user-attachments/assets/8f82da20-519b-4deb-b5d4-a85f1f74ef10" />
+
+Statistic on 9/18/26:
+
+<img width="1899" height="968" alt="image" src="https://github.com/user-attachments/assets/c9873031-f8c3-474e-a9b0-88ba7fd0d398" />
+
+
